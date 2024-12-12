@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.17.5",
+    "@babel/core": "7.18.6",
     "@babel/node": "^7.16.8",
     "@babel/preset-env": "^7.16.11",
-    "express": "^4.18.1",
+    "express": "4.20.0",
     "nodemon": "^2.0.16",
     "cors": "^2.8.5"
   }
